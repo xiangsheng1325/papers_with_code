@@ -12,3 +12,14 @@
 |ID-GNN|[AAAI2021](https://arxiv.org/abs/2101.10320)|[GraphGym](https://github.com/snap-stanford/GraphGym/)|||
 |GSN|[arxiv](https://arxiv.org/abs/2006.09252)|[dgl](https://github.com/dmlc/dgl/tree/master/examples/pytorch/ogb/directional_GSN)|||
 
+# State of the Art
+
+|Algorithm|Paper|Code|Archive|Note|
+|--|--|--|--|--|
+|GDGNN|[arxiv](https://arxiv.org/abs/2210.02636)|[github](https://github.com/woodcutter1998/gdgnn)|||
+
+
+# 实验优先级
+最高：state of the art
+中等：pattern-based methods
+一般：baselines
