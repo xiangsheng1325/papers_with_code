@@ -17,6 +17,8 @@ Step6: re-implement the experiment of fraud detection
 
 Step7: add experiments of fraud detection baselines
 
+Step8: collect experimental results and submit a CCF-A paper.
+
 # Scalable pattern-based gnn for graph simulation
 
 Step 1: learn how to use dgl for large-scale node classifications
@@ -32,3 +34,5 @@ Step 5: re-implement the state-of-the-art graph simulation method
 Step6: re-implement the experiment of graph simulation
 
 Step7: add experiments of graph simulation baselines
+
+Step8: collect experimental results and submit a CCF-A paper.
